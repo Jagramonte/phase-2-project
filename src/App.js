@@ -8,7 +8,10 @@ import Budget from "./pages/Budget";
 import Review from "./pages/Review";
 import "semantic-ui-css/semantic.min.css";
 
+
 function App() {
+  
+  
   return (
     <div>
       <nav className="top-area">

@@ -1,5 +1,6 @@
 // import { useSearchParams } from "react-router-dom";
 
+
 // function SearchBar(){
 //     // const navigate = useNavigate();
 //     const [searchParams, setSearchParams] = useSearchParams({q: ''});
@@ -17,7 +18,7 @@
 function SearchBar({setSearchTerm}){
     return (
         <form className="destination">
-             <input type="text" name="search" onChange={e=>setSearchTerm(e.currentTarget.value)} />
+             <input type="text" name="search" onChange={e=>setSearchTerm(e.currentTarget.value)} placeholder="Search" />
          </form>
     );
 }

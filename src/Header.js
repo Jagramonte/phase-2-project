@@ -4,7 +4,7 @@ export function Header(){
     return(
         <header>
             <Link to="/" className="logo">
-                <h1>J&J Travel Angency</h1>
+                <h1>J&J Travel Agency</h1>
             </Link>
         </header>
     )

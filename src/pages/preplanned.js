@@ -46,9 +46,9 @@ function TravelList({ searchTerm }) {
     : dests.filter((dest) => {
         const searchTerm1 = searchTerm.toLowerCase();
         return (
-          dest.Continent.toLowerCase().includes(searchTerm1) ||
-          dest.Location.toLowerCase().includes(searchTerm1) ||
-          dest.Description.toLowerCase().includes(searchTerm1)
+          dest.Continent?.toLowerCase().includes(searchTerm1) ||
+          dest.Location?.toLowerCase().includes(searchTerm1) ||
+          dest.Description?.toLowerCase().includes(searchTerm1)
         );
       });
   return (
