@@ -1,11 +1,11 @@
 import { Link, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Header } from "./Header";
-import Home from "./Home";
-import PreplannedDestinations from "./PreplannedDestinations";
-import Customize from "./Customize";
-import Budget from "./Budget";
-import Review from "./Review";
+import Home from "./pages/Home";
+import PreplannedDestinations from "./pages/preplanned";
+import Customize from "./pages/Customize";
+import Budget from "./pages/Budget";
+import Review from "./pages/Review";
 import "semantic-ui-css/semantic.min.css";
 
 function App() {
