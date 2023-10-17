@@ -1,0 +1,139 @@
+{
+  "destinations": [
+    {
+      "Id": 1,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjQOrwlJQ9zyOiGepWXP_-JeZk3R4l399Tw&usqp=CAU",
+      "Continent": "North America",
+      "Location": "New York",
+      "Description": "Travel to New York to experience the vibrant energy of a world-class city, with iconic landmarks like Times Square, Central Park, and the Statue of Liberty, and indulge in a diverse culinary scene and cultural offerings. From Broadway shows to museums, there's something for everyone in the city that never sleeps.",
+      "Review": "Traveling to New York with J&J Agency was a seamless and memorable experience, with top-notch accommodations, expert guides, and unforgettable city exploration.",
+      "Price": "$1000 per person"
+    },
+    {
+      "Id": 2,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxeBR-ahSCv8ZMVkZb6pS1g9zvHnB295eVQ&usqp=CAU",
+      "Continent": "North America",
+      "Location": "Niagara Falls",
+      "Description": "Travel to Niagara Falls to witness the awe-inspiring natural beauty of one of the world's most famous waterfalls, where millions of gallons of water cascade over the cliffs each minute. It's a breathtaking and unforgettable experience, with boat tours and scenic viewpoints offering the chance to get up close to this incredible natural wonder.",
+      "Review": "Our trip to Niagara Falls organized by J&J Agency was a breathtaking and hassle-free adventure, offering stunning views, well-planned excursions, and exceptional service throughout.",
+      "Price": "$2000 per person"
+    },
+    {
+      "Id": 3,
+      "Image": "https://image-tc.galaxy.tf/wijpeg-nwgc95w5lyjukds31ydn66g1/cancu-n_wide.jpg?crop=0%2C0%2C1920%2C1080&width=2500",
+      "Continent": "North America",
+      "Location": "Cancun",
+      "Description": "Travel to Cancun to enjoy the stunning white-sand beaches and crystal-clear turquoise waters of the Caribbean, making it a paradise for sun-seekers and water sports enthusiasts. Additionally, Cancun offers a vibrant nightlife, ancient Mayan ruins, and a range of resorts and activities that cater to a wide range of travelers, making it a popular destination for those seeking both relaxation and adventure.",
+      "Review": "Our Cancun getaway with J&J Agency was a sun-soaked paradise, complete with luxurious resorts, exciting excursions, and impeccable arrangements, making it a truly unforgettable vacation.",
+      "Price": "$1750 per person"
+    },
+    {
+      "Id": 4,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHsLD9i1J10VVVwkJPdAoPcP-FU9EhO2srlX39KqP19bLAm8K6rvZif6hbCRsJqUAEr7w&usqp=CAU",
+      "Continent": "North America",
+      "Location": "Grand Canyon",
+      "Description": "Travel to the Grand Canyon to witness one of the most awe-inspiring natural wonders on Earth, with its immense size, dramatic landscapes, and breathtaking vistas that leave a lasting impression on all who visit. Whether you're hiking along the rim, rafting down the Colorado River, or simply taking in the panoramic views, the Grand Canyon offers an unforgettable experience for nature enthusiasts and adventure seekers alike.",
+      "Review": "Our Grand Canyon expedition with J&J Agency was an awe-inspiring journey, delivering stunning vistas, well-organized tours, and an unforgettable experience in the heart of this natural wonder.",
+      "Price": "$750 per person"
+    },
+    {
+      "Id": 5,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLrQaumiF7YCpBJd8ez36l5VhQ_Z4AHhKJTw&usqp=CAU",
+      "Continent": "North America",
+      "Location": "Hawaii",
+      "Description": "Travel to Hawaii to bask in the paradise of lush landscapes, pristine beaches, and a unique blend of Polynesian culture and American hospitality. Whether you're surfing the waves, exploring volcanic landscapes, or simply relaxing on the sandy shores, Hawaii offers a diverse and captivating experience for travelers seeking natural beauty and island charm.",
+      "Review": "Our Hawaiian adventure with J&J Agency was a tropical paradise come to life, with idyllic beaches, well-planned activities, and exceptional service, making it an unforgettable island getaway.",
+      "Price": "$2500 per person"
+    },
+    {
+      "Id": 6,
+      "Image": "https://www.intrepidtravel.com/v3/assets/blt0de87ff52d9c34a8/blt84e6f613930bd904/63c9c76e75a0df5fb06eec98/Intrepid_Travel-brazil_rio-de-janeiro_botafogo-bay-aerial_ss-435627745_2018.jpg",
+      "Continent": "South America",
+      "Location": "Brazil",
+      "Description": "Travel to Brazil to immerse yourself in the vibrant culture of this South American giant, where you can samba to the rhythm of Carnival, explore the Amazon rainforest's biodiversity, and relax on the beautiful beaches of Copacabana and Ipanema. With its rich mix of music, dance, cuisine, and natural wonders, Brazil offers a diverse and unforgettable experience for those seeking adventure and cultural immersion.",
+      "Review": "Our Brazilian escapade with J&J Agency was an exhilarating experience, filled with vibrant culture, well-coordinated tours, and impeccable arrangements, ensuring an unforgettable journey through this diverse and beautiful country.",
+      "Price": "$2500 per person"
+    },
+    {
+      "Id": 7,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_a-knpRq0J11As2oyJylZUyxelzHTaAoKg&usqp=CAU",
+      "Continent": "South America",
+      "Location": "Chile",
+      "Description": "Travel to Chile to witness the stunning diversity of its landscapes, from the otherworldly beauty of the Atacama Desert to the pristine Patagonian wilderness, offering a wealth of outdoor adventures and breathtaking scenery. Additionally, Chile boasts a vibrant culinary scene, world-class wine regions, and a rich cultural heritage, making it an ideal destination for those seeking both natural wonders and cultural exploration.",
+      "Review": "Our journey to Chile with J&J Agency was a remarkable exploration, offering diverse landscapes, expertly guided tours, and seamless logistics, making it an extraordinary adventure through this captivating South American destination.",
+      "Price": "$2000 per person"
+    },
+    {
+      "Id": 8,
+      "Image": "https://www.peru.travel/Contenido/AcercaDePeru/Imagen/en/6/0.0/Principal/Machu%20Picchu.jpg",
+      "Continent": "South America",
+      "Location": "Peru",
+      "Description": "Travel to Peru to explore the ancient wonders of Machu Picchu, a UNESCO World Heritage site and one of the most iconic archaeological treasures in the world. With its rich history, diverse landscapes, and the opportunity to trek through the Andes, Peru provides a unique and immersive experience for history enthusiasts and adventure seekers alike.",
+      "Review": "Our Peruvian expedition with J&J Agency was a captivating odyssey, featuring breathtaking ancient ruins, thoughtfully curated excursions, and impeccable service, creating an unforgettable experience in this fascinating country.",
+      "Price": "$3500 per person"
+    },
+    {
+      "Id": 9,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtcq8KRuObQuJmsJMPaGKTQ7sReCe0YF8kw&usqp=CAU",
+      "Continent": "South America",
+      "Location": "Ecuador",
+      "Description": "Travel to Ecuador to discover its remarkable biodiversity, from the lush Amazon rainforest to the unique Galápagos Islands, where you can encounter a wide range of exotic wildlife. Additionally, Ecuador offers a rich cultural heritage, charming colonial cities, and a warm and welcoming atmosphere, making it a captivating destination for nature lovers and culture enthusiasts.",
+      "Review": "Our Ecuadorian voyage with J&J Agency was an incredible adventure, brimming with stunning natural wonders, well-planned expeditions, and exceptional hospitality, making it a truly memorable exploration of this enchanting South American nation.",
+      "Price": "$1500 per person"
+    },
+    {
+      "Id": 10,
+      "Image": "https://media.nomadicmatt.com/colombiaguide.jpg",
+      "Continent": "South America",
+      "Location": "Columbia",
+      "Description": "Travel to Colombia to experience a country that has transformed itself from a troubled past into a vibrant and diverse destination. From the colorful streets of Cartagena to the lush coffee plantations, Colombia offers a mix of history, culture, and natural beauty, making it an exciting and evolving place for travelers to explore.",
+      "Review": "Our Colombian journey with J&J Agency was a thrilling exploration, offering vibrant culture, meticulously arranged tours, and seamless travel logistics, resulting in an unforgettable adventure through this diverse and captivating country.",
+      "Price": "$2500 per person"
+    },
+    {
+      "Id": 11,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeGW719hVuslYuS-VAad3Cik62zt1wF7j9ig&usqp=CAU",
+      "Continent": "Europe",
+      "Location": "Paris",
+      "Description": "Travel to Paris to immerse yourself in the romantic ambiance of the City of Love, where you can stroll along the Seine River, visit iconic landmarks like the Eiffel Tower and Louvre Museum, and savor exquisite French cuisine in charming bistros. With its rich history, art, and culture, Paris is a captivating destination for those seeking a blend of beauty, history, and a taste of the finer things in life",
+      "Review": "Our Parisian getaway with J&J Agecny was a dream come true, featuring exquisite accommodations, expertly guided tours, and impeccable arrangements that made our experience in the City of Light truly enchanting.",
+      "Price": "$3000 per person"
+    },
+    {
+      "Id": 12,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsjr6axmMotBwQ2kgPd_5YE8FThxTLgNpDOQ&usqp=CAU",
+      "Continent": "Europe",
+      "Location": "Italy",
+      "Description": "Travel to Italy to indulge in a sensory feast of art, history, and culinary delights, with its world-renowned cities like Rome, Florence, and Venice offering a treasure trove of cultural experiences and iconic landmarks. From savoring authentic pasta in local trattorias to exploring ancient ruins and Renaissance masterpieces, Italy's unique blend of history, architecture, and cuisine makes it an irresistible destination for travelers.",
+      "Review": "Our Italian adventure with J&J Agency was an unforgettable experience, with picturesque destinations, well-organized tours, and superb customer service, making our journey through Italy truly magical.",
+      "Price": "$3050 per person"
+    },
+    {
+      "Id": 13,
+      "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjseFW-PzBxNzr5U1D-yjNPGGg8AriYZ3uYw&usqp=CAU",
+      "Continent": "Europe",
+      "Location": "Great Britain",
+      "Description": "Travel to Great Britain to immerse yourself in the rich tapestry of history and culture, from the historic streets of London to the stunning landscapes of the Scottish Highlands, and to enjoy a diverse range of experiences, including exploring castles, sipping afternoon tea, and attending world-class theater productions. With its blend of tradition and modernity, Great Britain offers a unique and multifaceted journey for travelers interested in both the old and the new.",
+      "Review": "Our exploration of Great Britain with J&J Agency was an enriching experience, combining historical sites, well-structured tours, and exceptional support, ensuring our trip through the UK was both educational and enjoyable.",
+      "Price": "$1500 per person"
+    },
+    {
+      "Id": 14,
+      "Image": "https://media.architecturaldigest.com/photos/618ed8c9fa622d42f64b0562/3:2/w_4500,h_3000,c_limit/GettyImages-160498144.jpg",
+      "Continent": "Europe",
+      "Location": "Ireland",
+      "Description": "Travel to the Emerald Isle of Ireland to experience its captivating landscapes, including lush green countryside, rugged coastlines, and charming villages, all while immersing yourself in a culture known for its warmth and hospitality. From savoring a pint of Guinness in a traditional Irish pub to exploring ancient castles and archaeological sites, Ireland offers a unique blend of natural beauty and history that is sure to leave a lasting impression on any traveler.",
+      "Review": "Our Irish expedition with J&J Agency was an enchanting journey, featuring breathtaking landscapes, thoughtfully guided tours, and impeccable arrangements, ensuring an unforgettable experience on the Emerald Isle.",
+      "Price": "$3800 per person"
+    },
+    {
+      "Id": 15,
+      "Image": "https://www.goway.com/media/cache/e0/24/e024a56654de8fbbc0d24a9693feee65.jpg",
+      "Continent": "Europe",
+      "Location": "Greece",
+      "Description": "Travel to Greece to explore the cradle of Western civilization, with its ancient ruins, picturesque islands, and delicious Mediterranean cuisine. Whether you're admiring the Acropolis in Athens, relaxing on the beaches of the Greek Islands, or savoring local dishes like moussaka and souvlaki, Greece offers a perfect blend of history, natural beauty, and culinary delights.",
+      "Review": "Our Greek adventure with J&J Agency was a Mediterranean dream, offering historical marvels, well-planned excursions, and impeccable service, making it an unforgettable odyssey through this ancient and picturesque land.",
+      "Price": "$4025 per person"
+    }
+  ]
+}
