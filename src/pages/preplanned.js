@@ -1,4 +1,5 @@
 import TravelList from "../components/TravelList";
+import Customize from "./Customize"
 
 function PreplannedDestinations({ dests, searchTerm }) {
   return (

@@ -10,6 +10,7 @@ import "semantic-ui-css/semantic.min.css";
 import { useEffect, useState } from "react";
 
 
+
 function App() {
   const [dests, setDests] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
