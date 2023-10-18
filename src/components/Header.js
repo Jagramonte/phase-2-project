@@ -6,10 +6,10 @@ import "./Header.css";
 
 export function Header({ setSearchTerm }) {
   return (
-    <header>
+    <header className="header">
       <Link to="/" className="logo">
-        <img src={myLogo} alt="logo" />
-        <h1>J&J Travel Angency</h1>
+        <img src={myLogo} alt="logo"/>
+        <h1>J&J Travel Agency</h1>
       </Link>
       <SearchBar setSearchTerm={setSearchTerm} />
     </header>

@@ -1,7 +1,8 @@
-/* .logo {
+.logo {
   display: flex;
   flex-direction: row;
-} */
+  width: fit-content;
+}
 
 .logo img {
   width: 4rem;
@@ -9,12 +10,20 @@
   border-radius: 50%;
 }
 
-header {
-    margin-left: 35%;
-    flex-direction: row;
-    display: flex;
-  }
+.header {
+  /* margin-left: 35%; */
+  /* flex-direction: row;
+  display: flex; */
+  width: fit-content;
+  margin-inline: auto;
+}
 
+/* header form {
+  display: flex;
+  align-items: center;
+} */
+
+/*
 h1 {
     margin-right: 30%
-} 
+}  */
