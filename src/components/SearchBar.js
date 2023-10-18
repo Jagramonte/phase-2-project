@@ -1,7 +1,7 @@
 import { Form, Input } from "semantic-ui-react";
 function SearchBar({ setSearchTerm }) {
   return (
-    <Form >
+    <Form className="header__right">
       <Input
         type="text"
         name="search"
