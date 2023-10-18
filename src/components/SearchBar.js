@@ -1,12 +1,13 @@
+import { Form, Input } from "semantic-ui-react";
 function SearchBar({ setSearchTerm }) {
   return (
-    <form className="destination">
-      <input
+    <Form >
+      <Input
         type="text"
         name="search"
         onChange={(e) => setSearchTerm(e.currentTarget.value)}
       />
-    </form>
+    </Form>
   );
 }
 export default SearchBar;
