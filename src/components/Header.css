@@ -1,0 +1,20 @@
+/* .logo {
+  display: flex;
+  flex-direction: row;
+} */
+
+.logo img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+header {
+    margin-left: 35%;
+    flex-direction: row;
+    display: flex;
+  }
+
+h1 {
+    margin-right: 30%
+} 
