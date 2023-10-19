@@ -14,11 +14,19 @@ function ReviewCard({ dest }) {
   );
 }
 
-function ReviewList({ dests }) {
- 
+function ReviewList({ dests, searchTerm }) {
+  const filteredDests = !searchTerm
+  ? dests
+  : dests.filter((dest) => {
+      console.log({ dest, searchTerm });
+      const searchTerm1 = searchTerm.toLowerCase();
+      return (
+        dest.Review?.toLowerCase().includes(searchTerm1) 
+      );
+    });
   return (
     <Grid>
-      {dests.filter(dest=>dest.Review).map((dest) => {
+      {filteredDests.map((dest) => {
         return <ReviewCard key={dest.id} dest={dest} />;
       })}
     </Grid>

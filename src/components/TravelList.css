@@ -1,0 +1,11 @@
+.displayCards {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem
+  }
+  
+ .cardDesign {
+    border: 1px solid rgb(3, 32, 3);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+ } 
