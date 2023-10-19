@@ -3,7 +3,7 @@ import { Button, Form } from "semantic-ui-react";
 import { useState } from "react";
 import "./Customize.css";
 
-function Customize({}) {
+function Customize({setDests}) {
   const [formData, setFormData] = useState({
     Continent: "",
     Location: "",
@@ -32,7 +32,7 @@ function Customize({}) {
           Description: "",
           Price: "",
         });
-       
+       setDests((previous) => [...previous,newDest])
       });
   }
   return (

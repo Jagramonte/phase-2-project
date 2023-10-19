@@ -48,7 +48,7 @@ function App() {
               <PreplannedDestinations dests={dests} searchTerm={searchTerm} />
             }
           />
-          <Route path="customize" element={<Customize />} />
+          <Route path="customize" element={<Customize setDests={setDests}/>} />
           <Route
             path="budget"
             element={<Budget dests={dests} searchTerm={searchTerm} />}
