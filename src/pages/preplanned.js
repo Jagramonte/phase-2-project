@@ -1,9 +1,9 @@
 import TravelList from "../components/TravelList";
-import Customize from "./Customize"
+import Customize from "./Customize";
 
 function PreplannedDestinations({ dests, searchTerm }) {
   return (
-    <div className="pre-planned">
+    <div>
       <TravelList searchTerm={searchTerm} dests={dests} />
     </div>
   );

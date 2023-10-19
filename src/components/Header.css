@@ -10,14 +10,20 @@
   border-radius: 50%;
 }
 
-.header {
+.app-header {
   /* margin-left: 35%; */
   /* flex-direction: row;
   display: flex; */
-  width: fit-content;
-  margin-inline: auto;
+  /* width: fit-content; */
+  /* margin-inline: auto; */
+  display: flex;
+  background-color: rgb(9, 75, 75);
+  padding: 1rem;
 }
-
+.logo-name {
+  font-size: xx-large;
+  padding-inline: 1rem;
+}
 /* header form {
   display: flex;
   align-items: center;
@@ -27,3 +33,22 @@
 h1 {
     margin-right: 30%
 }  */
+
+.header__left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header__left > img {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+}
+
+.header__right {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-grow: 1;
+}

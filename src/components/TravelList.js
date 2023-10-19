@@ -1,10 +1,11 @@
 import { useEffect, useState } from "react";
 import { Card, Icon, Image } from "semantic-ui-react";
+import "./TravelList.css";
 
 function DestCard({ dest }) {
   const [flipped, setFlipped] = useState(false);
   return (
-    <Card onClick={() => setFlipped((state) => !state)}>
+    <Card onClick={() => setFlipped((state) => !state)} className="cardDesign">
       <Image src={dest.Image} wrapped ui={false} />
       <Card.Content>
         <Card.Header>{dest.Location}</Card.Header>
@@ -45,7 +46,7 @@ function TravelList({ searchTerm, dests }) {
         );
       });
   return (
-    <Card.Group>
+    <Card.Group className="displayCards">
       {filteredDests.map((dest) => {
         return <DestCard key={dest.Id} dest={dest} />;
       })}

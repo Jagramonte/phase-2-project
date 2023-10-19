@@ -1,4 +1,4 @@
-import { Link, Route, Routes } from "react-router-dom";
+import { NavLink, Route, Routes } from "react-router-dom";
 import "./App.css";
 import { Header } from "./components/Header";
 import Home from "./pages/Home";
@@ -26,16 +26,16 @@ function App() {
         <Header setSearchTerm={setSearchTerm} />
         <ul className="navigate">
           <li>
-            <Link to="/preplanned">Preplanned Destination</Link>
+            <NavLink to="/preplanned">Preplanned Destination</NavLink>
           </li>
           <li>
-            <Link to="/customize">Customize Destination</Link>
+            <NavLink to="/customize">Customize Destination</NavLink>
           </li>
           <li>
-            <Link to="/budget">Budget friendly</Link>
+            <NavLink to="/budget">Budget Friendly</NavLink>
           </li>
           <li>
-            <Link to="/reviews">Reviews</Link>
+            <NavLink to="/reviews">Reviews</NavLink>
           </li>
         </ul>
       </nav>
@@ -53,7 +53,7 @@ function App() {
             path="budget"
             element={<Budget dests={dests} searchTerm={searchTerm} />}
           />
-          <Route path="reviews" element={<Review dests={dests} />} />
+          <Route path="reviews" element={<Review dests={dests} searchTerm={searchTerm} />} />
         </Routes>
       </main>
     </div>
