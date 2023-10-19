@@ -5,7 +5,8 @@ function SearchBar({ setSearchTerm }) {
       <Input
         type="text"
         name="search"
-        onChange={(e) => setSearchTerm(e.currentTarget.value)}
+        onChange={(e) => setSearchTerm(e.currentTarget.value)} 
+        placeholder="Search"
       />
     </Form>
   );

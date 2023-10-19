@@ -4,6 +4,7 @@ import "./TravelList.css";
 
 function DestCard({ dest }) {
   const [flipped, setFlipped] = useState(false);
+  const [like, setLike] = useState(false);
   return (
     <Card onClick={() => setFlipped((state) => !state)} className="cardDesign">
       <Image src={dest.Image} wrapped ui={false} />
@@ -16,8 +17,7 @@ function DestCard({ dest }) {
       </Card.Content>
       <Card.Content extra>
         <a>
-          <Icon name="star" />
-          10 Stars
+          <Icon name="star" button className="starbutton>" onClick={()=> setLike(prev => !prev)}/>
         </a>
       </Card.Content>
     </Card>
