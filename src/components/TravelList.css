@@ -12,3 +12,8 @@
 .ui.card.cardDesign {
   border: 1px solid  rgb(9, 75, 75);;
 }
+
+div.ui.cards.displayCards {
+    margin-left: 5%;
+    margin-right: 7%;
+  }
