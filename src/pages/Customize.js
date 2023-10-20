@@ -32,7 +32,9 @@ function Customize({setDests}) {
           Description: "",
           Price: "",
         });
-       setDests((previous) => [...previous,newDest])
+
+       setDests(prev=>[...prev, newDest]);
+      
       });
   }
   return (

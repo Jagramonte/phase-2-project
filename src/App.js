@@ -1,15 +1,14 @@
-import { NavLink, Route, Routes } from "react-router-dom";
+import "semantic-ui-css/semantic.min.css";
 import "./App.css";
+import { NavLink, Route, Routes } from "react-router-dom";
 import { Header } from "./components/Header";
 import Home from "./pages/Home";
 import PreplannedDestinations from "./pages/preplanned";
 import Customize from "./pages/Customize";
 import Budget from "./pages/Budget";
 import Review from "./pages/Review";
-import "semantic-ui-css/semantic.min.css";
+
 import { useEffect, useState } from "react";
-
-
 
 function App() {
   const [dests, setDests] = useState([]);
@@ -48,12 +47,18 @@ function App() {
               <PreplannedDestinations dests={dests} searchTerm={searchTerm} />
             }
           />
-          <Route path="customize" element={<Customize setDests={setDests}/>} />
+
+          <Route path="customize" element={<Customize setDests={setDests} />} />
+
+
           <Route
             path="budget"
             element={<Budget dests={dests} searchTerm={searchTerm} />}
           />
-          <Route path="reviews" element={<Review dests={dests} searchTerm={searchTerm} />} />
+          <Route
+            path="reviews"
+            element={<Review dests={dests} searchTerm={searchTerm} />}
+          />
         </Routes>
       </main>
     </div>

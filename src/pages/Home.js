@@ -1,10 +1,13 @@
+import "./Home.css";
 
-function Home(){
-    // const continents = ["North America", "South America", "Europe"];
-    // const navigate = useNavigate();
-    return (
-        <h2>  All Sales Final! </h2>
-    );
+
+function Home() {
+  // const continents = ["North America", "South America", "Europe"];
+  // const navigate = useNavigate();
+  return <div className="home"> All Sales Are Final! </div>;
+
+
+
 }
 
 export default Home;

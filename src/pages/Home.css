@@ -1,0 +1,7 @@
+.home {
+  height: 80vh;
+  display: grid;
+  place-items: center;
+  font-size: 8rem;
+  color: red
+}

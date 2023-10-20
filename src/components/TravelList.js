@@ -16,8 +16,8 @@ function DestCard({ dest }) {
       </Card.Content>
       <Card.Content extra>
         <a>
-          <Icon name="star" />
-          10 Stars
+          <Icon name="star"/>
+          10 stars
         </a>
       </Card.Content>
     </Card>

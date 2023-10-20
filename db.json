@@ -262,63 +262,15 @@
       "Review": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
     },
     {
-      "Continent": "sds",
-      "Location": "sds",
-      "Image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBQUFBcSFBUXGBcZGhkYFxgZFxkYGRoZGhoZGBoaGRcaICwjGh0pHhcYJTYlKi0yMzMzGiI4PjgyPSwyMy8BCwsLDw4PHhISHjQqIyo1MjIvMjQ1MjI1OjIyMjIyMjIyMjI0MjIyMjI0MjIyNDQyNDI0MjQyMjIyMjIyMjIyM//AABEIAKgBLAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAAECBAUGB//EAEIQAAIBAwIDBQUFBgQGAgMAAAECEQADIRIxBEFRBRMiYXEGMoGRoUJSsdHwU2Jyk8HhFCOS8RUWM4Ki0kPiY6PC/8QAGwEAAQUBAQAAAAAAAAAAAAAAAAECAwQFBgf/xAAtEQACAgEDBAECBgIDAAAAAAAAAQIRAwQSIRMxQVEFYXEUIjKBkcGhsVLR8P/aAAwDAQACEQMRAD8A5LiFtsRpcZJYx7oIXaTEtj18qq2rUiD4QRtvjE5OZ9etG/wy6e7Bw7aiZn7PliZOI5z1p04knWWVmhtBJknBK+A7nfn97yEQLhEtch7F0kFImQyoAInEhfPYchv5UDi7XeWyish0mZIIuFoCupMZCrML02OIJrd9lIJlV1SswcQJlR5Eeu1A7WJllssFBMQp0yNIOlep8Rzy93lSJ88Dn2Kx4VbfdsGBCKWcjq7RG0nAUeUedaEVTsDS0ESp06hO4A2JjGYrRiun+Dm3GUX4af8AJi/JpJxl91/AKKWmiaaWmt4ytwPTS00TTS00BuBxTRRNNLTRQbgcUoommm00ULuB6aWmiaaWmig3AtNKKJppaaKF3AtNPpommlppKDcCilFF002mihdwMLT6anFKKKCwemmiiRSikoLIDFKpxSiigshT1IClFJQWQilFTilFFBZClFTilFFBYOKepRTRSULY1RqUUopKAXEcVaDl0CqcQjMWEQAfEdyYoiPbZAwY6Tgqp0kEH",
-      "Description": "ds",
-      "Price": "sds",
-      "id": 30
-    },
-    {
-      "Continent": "",
-      "Location": "",
-      "Image": "",
-      "Description": "",
-      "Price": "",
-      "id": 31
-    },
-    {
-      "Continent": "",
-      "Location": "",
-      "Image": "",
-      "Description": "",
-      "Price": "",
-      "id": 32
-    },
-    {
-      "Continent": "asda",
-      "Location": "sdasd",
-      "Image": "asdasd",
-      "Description": "asdasd",
-      "Price": "asdasd",
-      "id": 33
-    }
-  ],
-  "reviews": [
-    {
-      "id": 1,
-      "travelId": 29,
-      "comment": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
-    },
-    {
-      "id": 2,
-      "travelId": 29,
-      "comment": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
-    },
-    {
-      "id": 3,
-      "travelId": 29,
-      "comment": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
-    },
-    {
-      "id": 4,
-      "travelId": 28,
-      "comment": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
-    },
-    {
-      "id": 5,
-      "travelId": 28,
-      "comment": "My trip to the Gold Coast was a coastal paradise with stunning ocean views and incredible adventures. The unforgettable experiences and the friendships formed along the way made it a truly exceptional journey."
+      "id": 30,
+      "Continent": "Antartica",
+      "Location": "Antartica",
+      "Description": "Traveling to Antarctica offers an unparalleled adventure, where visitors can witness breathtaking icy landscapes, encounter unique wildlife, and gain a profound appreciation for the planet's most remote and pristine continent. It's a once-in-a-lifetime journey that combines natural wonders with the ultimate sense of isolation and awe-inspiring beauty.",
+      "Image": "https://cdn.mos.cms.futurecdn.net/3YtWkM3eghxvYLTTNkuXXg.jpg",
+      "Price": "$5000",
+      "Review": "My experience with J&J Agency on my Antarctica expedition was nothing short of extraordinary. Their meticulous planning, knowledgeable guides, and unwavering commitment to safety ensured that every moment of this frozen frontier adventure was both awe-inspiring and worry-free." 
     }
   ]
+ 
+  
 }
